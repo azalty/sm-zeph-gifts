@@ -1,4 +1,4 @@
-# sm-zeph-gifts
+# sm-zeph-gifts - A patched "Gifts!" plguin
 Modified/patched version of the "Gifts!" sourcemod plugin by Zephyrus
 
 https://forums.alliedmods.net/showthread.php?p=2777945#post2777945
