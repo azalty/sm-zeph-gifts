@@ -3,6 +3,11 @@ Modified/patched version of the "Gifts!" sourcemod plugin by Zephyrus
 
 https://forums.alliedmods.net/showthread.php?p=2777945#post2777945
 
+## Compile instructions
+Plugin compiled with **SM 1.7** (I think) - it doesn't compile on SM 1.10 but will work fine on a SM 1.10 and + server: this is because SourceMod is backwards compatible!
+
+This is because the plugin uses the old syntax, and I didn't bother fixing it. Most plugins that use this plugin are also in the old syntax, and I don't want to break anything.
+
 ## Notes
 Modified the plugin for my private needs, but here it is.
 Includes some changes and fixes:
