@@ -8,6 +8,8 @@ Plugin compiled with **SM 1.7** (I think) - it doesn't compile on SM 1.10 and la
 
 This is because the plugin uses the old syntax, and I didn't bother fixing it. Most plugins that use this plugin are also in the old syntax, and I don't want to break anything.
 
+You can download SM 1.7 here: https://www.sourcemod.net/downloads.php?branch=1.7-dev (You should keep your server on the latest SourceMod version. Only use 1.7 to compile this plugin.)
+
 ## Notes
 Modified the plugin for my private needs, but here it is.
 Includes some changes and fixes:
